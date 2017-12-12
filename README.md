@@ -1,6 +1,6 @@
 
 # What is Soundcom? 
-### _Soundcom_, A Powerfull audio encoder. It can transmit encoded data using Sounds, its Simple UI & Instant Start is very easy to use.  You can reliably record your meetings, speeches, lectures, songs etc. & Make great moments sound fantastic.
+### _Soundcom_, a powerful audio encoder. Share encoded data through sounds, its simple instant start user interface	is very compatible to use.  You can reliably record your meetings, speeches, lectures, songs etc. & Make great moments sound fantastic.
 ![cover](https://user-images.githubusercontent.com/17242746/33632752-a8a0a5f0-da34-11e7-86aa-fd9b26993320.png)
 
 
@@ -10,10 +10,10 @@
 -  Records voice with high quality.
 -  Simple user interface, easy to use.
 -  Recording in background (even when display is off)
--  Format file: mp4
+-  Format file: mp3
 -  Record, Stop, Play audio file.
 -  Save the recording file. 
--  consumes low memory & battery.
+-  consumes less memory & battery.
 
 # Dependencies
 
@@ -52,4 +52,10 @@ By running a virtual device.
 Then running the application by clicking on Run on the Android Studio tool bar, or Shift + F10 and then choose the newly created virtual device to run the app.
 
 
+### Should look like this:
 
+![mainscreensoundcom](https://user-images.githubusercontent.com/34164334/33888050-d5b4e4f6-df71-11e7-9880-a089ed3b1264.png)
+
+
+
+![splashscreen](https://user-images.githubusercontent.com/34164334/33888051-d5f14c8e-df71-11e7-8e82-b39f6a7cfe0d.png)
